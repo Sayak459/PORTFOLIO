@@ -1,6 +1,6 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect'
-import propilepic from "../assets/Profile.jpeg"
+import propilepic from "../assets/profile.jpeg"
 import CV from '../assets/SayakResume.pdf'
 import { motion } from 'framer-motion'
 const Hero = () => {
