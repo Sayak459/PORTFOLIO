@@ -55,7 +55,7 @@ export const items=[
 export const PROJECTS = [
   {
     title: "Portfolio Website",
-    link:<a href="https://sayakweather.netlify.app/" target='_blank' rel='noopener noreferrer' className="text-base">Live ⛅</a>,
+    link:<a href="https://sayakportfol.netlify.app/" target='_blank' rel='noopener noreferrer' className="text-base">Live ⛅</a>,
     image: project1,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
