@@ -29,7 +29,7 @@ export const items=[
   {
     id:1,
     subtitle:"I CAN PROVIDE",
-    title:"UI/UX Design",
+    title:"Frontend Design",
     description:"I create intuitive, user-centered designs that enhance the overall user experience. My focus is on delivering clean, functional interfaces that are visually engaging and easy to navigate."
   },
   {
