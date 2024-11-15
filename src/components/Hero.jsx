@@ -36,9 +36,9 @@ const Hero = () => {
                             <button className='bg-blue-500 hover:bg-red-700 text-black font-bold font-mono py-2 px-4 rounded-xl'>
                                 Hire Me 👉
                             </button>
-                            <a className=' ml-4 bg-green-500 hover:bg-pink-700 text-black font-bold font-mono py-2 px-4 rounded-full' href={CV} download="CV.pdf">
+                            {/* <a className=' ml-4 bg-green-500 hover:bg-pink-700 text-black font-bold font-mono py-2 px-4 rounded-full' href={CV} download="CV.pdf">
                                 Download Resume ⬇
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
