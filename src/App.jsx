@@ -21,7 +21,7 @@ const App = () => {
     <div className={`${isDarkMode ? 'text-neutral-300' : 'bg-white text-neutral-900'} overflow-x-hidden antialiased selection:bg-cyan-300 selection:text-cyan-900`}>
       {/* Background Gradient */}
       <div className={`fixed top-0 -z-10 h-full w-full ${isDarkMode ? 'bg-gray-900' : 'bg-gray-100'}`}>
-        <div className="absolute inset-0 -z-10 h-full w-full items-center px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"></div>
+        <div className="absolute inset-0 -z-10 h-full w-full items-center px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_5%)]"></div>
       </div>
 
       {/* Scroll to Top Button */}
