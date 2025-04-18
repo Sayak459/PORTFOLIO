@@ -30,7 +30,7 @@ const Education = () => {
                 >
                     <h3 className="vertical-timeline-element-title">B.Tech In Comp.Sc.</h3>
                     <h4 className="vertical-timeline-element-subtitle">ST. Thomas College Of Engineering And Technology,Kolkata</h4>
-                    <h5 className="vertical-timeline-element-subtitle">CGPA:7.9</h5>
+                    <h5 className="vertical-timeline-element-subtitle">CGPA:8.01</h5>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="font-semibold"

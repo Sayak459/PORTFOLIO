@@ -35,13 +35,13 @@ export const items=[
   {
     id:2,
     subtitle:"I CAN PROVIDE",
-    title:"Full Stack Developing",
+    title:"Full Stack Development",
     description:"I develop robust, scalable full-stack applications with seamless integration between front-end and back-end. My expertise covers building responsive UIs, managing databases, and ensuring smooth API communication for optimal performance."
   },
   {
     id:3,
     subtitle:"I CAN PROVIDE",
-    title:"MERN Stack Developing",
+    title:"MERN Stack Development",
     description:"I specialize in building dynamic, full-stack applications using the MERN stack. From crafting responsive React front-ends to developing efficient Node.js back-ends with MongoDB and Express, I ensure smooth functionality and user experience."
   },
   {
