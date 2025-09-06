@@ -24,13 +24,13 @@ const Education = () => {
                     className="font-semibold"
                     contentStyle={{ background: 'black', color: 'white' }}
                     contentArrowStyle={{ borderRight: '7px solid  white' }}
-                    date="2022 - present"
+                    date="2022 - 2025"
                     iconStyle={{ background: '#138781', color: '#fff' }}
                     icon={<MdSchool />}
                 >
-                    <h3 className="vertical-timeline-element-title">B.Tech In Comp.Sc.</h3>
-                    <h4 className="vertical-timeline-element-subtitle">ST. Thomas College Of Engineering And Technology,Kolkata</h4>
-                    <h5 className="vertical-timeline-element-subtitle">CGPA:8.01</h5>
+                    <h3 className="vertical-timeline-element-title">B.Tech in Computer Science and Engineering</h3>
+                    <h4 className="vertical-timeline-element-subtitle">ST. Thomas' College Of Engineering And Technology,Kolkata</h4>
+                    {/* <h5 className="vertical-timeline-element-subtitle">CGPA:7.96</h5> */}
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="font-semibold"
@@ -41,7 +41,7 @@ const Education = () => {
                     icon={<GiDiploma />}
                 >
                     <h3 className="vertical-timeline-element-title">Diploma</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Ramakrishna Mission,Belurmath</h4>
+                    <h4 className="vertical-timeline-element-subtitle">Ramakrishna Mission Shilpamandira,Belurmath</h4>
                     <h5 className="vertical-timeline-element-subtitle">CGPA:8.9</h5>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -54,7 +54,7 @@ const Education = () => {
                 >
                     <h3 className="vertical-timeline-element-title">12th</h3>
                     <h4 className="vertical-timeline-element-subtitle">Sri Ramakrishna Sikshalaya,Howrah</h4>
-                    <h5 className="vertical-timeline-element-subtitle">Percentage-79%</h5>
+                    <h5 className="vertical-timeline-element-subtitle">Percentage-78.6%</h5>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="font-semibold"
@@ -66,7 +66,7 @@ const Education = () => {
                 >
                     <h3 className="vertical-timeline-element-title">10th</h3>
                     <h4 className="vertical-timeline-element-subtitle">Sri Ramakrishna Sikshalaya,Howrah</h4>
-                    <h5 className="vertical-timeline-element-subtitle">Percentage-92%</h5>
+                    <h5 className="vertical-timeline-element-subtitle">Percentage-91.57%</h5>
                 </VerticalTimelineElement>
             </VerticalTimeline>
         </div>
